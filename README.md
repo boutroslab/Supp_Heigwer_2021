@@ -1,6 +1,6 @@
 # Heigwer et al., TBA 2022
 
-[![DOI](https://zenodo.org/badge/580053769.svg)](https://zenodo.org/badge/latestdoi/580053769)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7503943.svg)](https://doi.org/10.5281/zenodo.7503943)
 
 _The paper this repository relates to is currently under preparation._
 
